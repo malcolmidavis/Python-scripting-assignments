@@ -1,14 +1,5 @@
-# Assignment 1
+# Cyber Incident Intake Report Generator
 
 ## Objective
 
-Introduction to Python programming fundamentals.
-
-## Skills Demonstrated
-
-- Variables
-- User input
-- Basic output
-- Python syntax
-
-Completed as coursework for the University of Arizona BAS in Cyber Operations.
+Collect incident details, process user input, and generate a formatted cybersecurity incident report.
