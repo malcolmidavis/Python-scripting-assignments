@@ -1,5 +1,5 @@
 # Python Cybersecurity Projects
-A collection of Python cybersecurity projects developed while pursuing a BAS in Cyber Operations at the University of Arizona.
+A collection of Python cybersecurity projects.
 
 Projects include:
 
